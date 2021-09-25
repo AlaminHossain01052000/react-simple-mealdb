@@ -8,7 +8,7 @@ const Header = () => {
             <img
                 style={{ width: "300px", height: "200px", textAlign: "center" }}
                 src={logo} alt="" />
-            <h1 style={{ color: "goldenrod" }}>Welcome to Al's Hotel and Cafe</h1>
+            <h1 style={{ color: "goldenrod" }}>Welcome to Al's Hotel and Cafetaria</h1>
         </div>
     );
 };
